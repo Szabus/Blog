@@ -1,0 +1,34 @@
+User ősosztály:
+    int id;
+    String userName;
+    String password;
+    String eMail;
+    Enum Duties
+    Blog list
+
+- moderator
+
+- admin
+
+Blog:
+    int id;
+    String blogName;
+    Enum category;
+    Enum color,
+    Wallpaper byte[];
+    Entry list,
+
+Entry:
+    int id,
+    String entry,
+    Enum status
+    Comments list
+
+Comments:
+   int id;
+   String comment,
+   int id,
+
+
+
+
